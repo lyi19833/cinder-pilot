@@ -1,0 +1,15 @@
+{
+  "name": "remote-control-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for remote control",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "jsonwebtoken": "^9.1.2",
+    "uuid": "^9.0.1"
+  }
+}

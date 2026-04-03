@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">远程控制</string>
+    <string name="accessibility_service_description">用于手势注入的远程控制服务</string>
+</resources>
